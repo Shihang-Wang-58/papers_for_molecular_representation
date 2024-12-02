@@ -119,7 +119,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <summary>Details</summary>
 
 ### 2024
-- <a name=""></a>**[GeminiMol]** Molecular Representation Model Enhanced by Conformational Space Profile (**BioRxiv**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
+- <a name=""></a>**[GeminiMol]** Molecular Representation Model Enhanced by Conformational Space Profile (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
 ### 2023
 
 ### 2022
