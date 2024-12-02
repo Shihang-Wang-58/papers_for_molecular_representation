@@ -1,7 +1,8 @@
+[![contributing](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/Shihang-Wang-58/papers_for_molecular_representation)
 # papers_for_molecular_representation
-```
+
 Molecular representation (MR) refers to the process of converting molecules into mathematical or computational formats that can be processed by algorithms to model, analyze and predict molecular behavior. Effective molecular representation is critical for many tasks in drug discovery, such as virtual screening, activity prediction, and scaffold hopping, which aim to navigate the chemical space effectively and efficiently.
-```
+
 
 ## Contents
 * [Survey](#survey)
