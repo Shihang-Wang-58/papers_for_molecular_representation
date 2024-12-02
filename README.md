@@ -212,7 +212,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 ### 2023
 
-- <a name=""></a>**[3DGCL]** 3Dgraph contrastive learning for molecular property prediction (**2023**) (**Bioinformatics**) [[paper](https://doi.org/10.1093/bioinformatics/btad371)] [[code](https://github.com/moonkisung/3DGCL)] ![GitHub stars](https://img.shields.io/github/stars/moonkisung/3DGCL.svg?logo=github&label=Stars)
+- <a name=""></a>**[3DGCL]** 3D graph contrastive learning for molecular property prediction (**2023**) (**Bioinformatics**) [[paper](https://doi.org/10.1093/bioinformatics/btad371)] [[code](https://github.com/moonkisung/3DGCL)] ![GitHub stars](https://img.shields.io/github/stars/moonkisung/3DGCL.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[CasANGCL]** CasANGCL (**2023**)  
 
