@@ -1,10 +1,11 @@
 [![contributing](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/Shihang-Wang-58/papers_for_molecular_representation)
 # papers_for_molecular_representation
+![AI_MR](https://github.com/user-attachments/assets/3ce7a7af-92ab-44d6-9b20-17ef4f90aabb)
 
 Molecular representation (MR) refers to the process of converting molecules into mathematical or computational formats that can be processed by algorithms to model, analyze and predict molecular behavior. Effective molecular representation is critical for many tasks in drug discovery, such as virtual screening, activity prediction, and scaffold hopping, which aim to navigate the chemical space effectively and efficiently.
 
 
-## Contents 📘
+# Contents 📘
 * [Survey](#Survey)
 * [Datasets](#Datasets)
 * [Tools](#Tools)
@@ -18,7 +19,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 * [Multimodal-based MR](#Multimodal-based_MR)
 * [Contrastive Learning-based MR](#Contrastive_Learning-based_MR)
 
-# Survey 📃
+## Survey 📃
 
 - <a name=""></a>**[2024]** Molecular representations in bio-cheminformatics (**Memetic Computing**) [[paper](https://doi.org/10.1007/s12293-024-00414-6)]
 - <a name=""></a>**[2024]** From intuition to AI: evolution of small molecule representations in drug discovery (**Briefings in Bioinformatics**) [[paper](https://doi.org/10.1093/bib/bbad422)]
@@ -28,13 +29,13 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[2021]** Geometric deep learning on molecular representations (**Nature Machine Intelligence**) [[paper](https://doi.org/10.1038/s42256-021-00418-8)]
 - <a name=""></a>**[2020]** Molecular representations in AI-driven drug discovery: a review and practical guide (**Journal of Cheminformatics**) [[paper](https://doi.org/10.1186/s13321-020-00460-5)]
 
-# Datasets 📂
+## Datasets 📂
 To be continued...
 
-# Tools ⚙️
+## Tools ⚙️
 To be continued...
 
-# Papers 📃
+## Papers 📃
 
 ## Molecular_Fingerprints_Descriptors-based_MR
 <details open>
@@ -288,7 +289,7 @@ To be continued...
 # Acknowledgement 🤝
 We would like to thank all the developers who have contributed to the field of molecular representation.
 
-## Get in Touch 💌
+# Get in Touch 💌
 If you have any questions, please feel free to contact Shihang Wang (Email: wangshh12022@shanghaitech.edu.cn). 
 
 Pull requests are highly welcomed!
