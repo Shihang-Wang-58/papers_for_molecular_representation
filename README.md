@@ -2,6 +2,8 @@
 # papers_for_molecular_representation
 ![AI_MR](https://github.com/user-attachments/assets/3ce7a7af-92ab-44d6-9b20-17ef4f90aabb)
 
+**Updating...**
+
 **Molecular representation (MR)** refers to the process of converting molecules into mathematical or computational formats that can be processed by algorithms to model, analyze and predict molecular behavior. Effective molecular representation is critical for many tasks in drug discovery, such as virtual screening, activity prediction, and scaffold hopping, which aim to navigate the chemical space effectively and efficiently.
 
 
