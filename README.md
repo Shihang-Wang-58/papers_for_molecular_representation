@@ -39,9 +39,8 @@ To be continued...
 
 ## Papers 📃
 
-## Molecular_Fingerprints_Descriptors-based_MR
 <details open>
-<summary>Details</summary>
+<summary><h2>Molecular_Fingerprints_Descriptors-based_MR</h2></summary>
 
 ### 2024
 
