@@ -289,7 +289,7 @@ To be continued...
 </details>
 
 # Acknowledgement 🤝
-We would like to thank all the developers who have contributed to the field of molecular representation. Shihang Wang thanks [Jianmin Wang](https://github.com/AspirinCode) and [Bo Li](https://github.com/Boom5426) for their inspiration and help.
+We would like to thank all the developers who have contributed to the field of molecular representation. Shihang Wang thanks [Lin Wang](https://github.com/Wang-Lin-boop) , [Jianmin Wang](https://github.com/AspirinCode) and [Bo Li](https://github.com/Boom5426) for their inspiration and help.
 
 # Get in Touch 💌
 If you have any questions, please feel free to contact Shihang Wang (Email: wangshh12022@shanghaitech.edu.cn). 
