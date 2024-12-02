@@ -280,3 +280,5 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 </details>
 
+# Acknowledgement
+We would like to thank all the developers who have contributed to the field of molecular representation.
