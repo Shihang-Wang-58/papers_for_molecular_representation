@@ -208,7 +208,7 @@ To be continued...
 <summary><h2>Contrastive_Learning-based_MR<h2></summary>
 
 ### 2024
-- <a name=""></a>**[PhenoScreen]** PhenoScreen: A Dual-Space Contrastive Learning Framework-based Phenotypic Screening Method by Linking Chemical Perturbations to Cellular Morphology (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1)] [[code](https://github.com/Shihang-Wang-58/PhenoScreen)]![GitHub stars](https://img.shields.io/github/stars/Shihang-Wang-58/PhenoScreen.svg?logo=github&label=Stars)
+- <a name=""></a>**[PhenoScreen]** PhenoScreen: A Dual-Space Contrastive Learning Framework-based Phenotypic Screening Method by Linking Chemical Perturbations to Cellular Morphology (**2024**) (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1)] [[code](https://github.com/Shihang-Wang-58/PhenoScreen)]![GitHub stars](https://img.shields.io/github/stars/Shihang-Wang-58/PhenoScreen.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[MOCO]** Molecular Contrastive Pretraining with Collaborative Featurizations (**2024**) (**Journal of Chemical Information and Modeling**) [[paper](https://doi.org/10.1021/acs.jcim.3c01468)] 
 
@@ -254,7 +254,7 @@ To be continued...
 <summary><h2>3D_Molecular_Structure-based_MR<h2></summary>
   
 ### 2024
-- <a name=""></a>**[GeminiMol]** Molecular Representation Model Enhanced by Conformational Space Profile (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
+- <a name=""></a>**[GeminiMol]** Molecular Representation Model Enhanced by Conformational Space Profile (**2023**) (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
 
 ### 2023
 
