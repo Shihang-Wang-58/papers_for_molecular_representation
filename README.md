@@ -214,7 +214,7 @@ To be continued...
 
 - <a name=""></a>**[MolFeSCue]** MolFeSCue (**2024**) [[code](https://github.com/zhangruochi/MolFeSCue)] ![GitHub stars](https://img.shields.io/github/stars/zhangruochi/MolFeSCue.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[3D-MOL]** 3D-MOL (**2024**)  
+- <a name=""></a>**[3D-MOL]** 3D-Mol: A Novel Contrastive Learning Framework for Molecular Property Prediction with 3D Information (**2024**) (**Pattern Analysis and Applications**)[[paper](https://doi.org/10.1007/s10044-024-01287-8)] [[code](https://github.com/AI-HPC-Research-Team/3D-Mol)] ![GitHub stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/3D-Mol.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[UniCorn]** UniCorn (**2024**)  
 
