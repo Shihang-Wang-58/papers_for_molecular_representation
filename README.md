@@ -195,6 +195,8 @@ To be continued...
 <details open>
 
 <summary><h2>3D_Molecular_Structure-based_MR<h2></summary>
+
+- <a name=""></a>**[Ouroboros]** Directed Chemical Evolution via Navigating Molecular Encoding Space (**2025**) (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2025.03.18.643899v1)] [[code](https://github.com/Wang-Lin-boop/Ouroboros)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/Ouroboros.svg?logo=github&label=Stars)
   
 - <a name=""></a>**[GeminiMol]** Molecular Representation Model Enhanced by Conformational Space Profile (**2023**) (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
 
