@@ -96,6 +96,8 @@ To be continued...
 
 - <a name=""></a>**[MolFormer]** Large-scale chemical language representations capture molecular structure and properties (**2024**) (**Nature Machine Intelligence**) [[paper](https://doi.org/10.1038/s42256-024-00856-0)] [[code](https://github.com/IBM/molformer)] ![GitHub stars](https://img.shields.io/github/stars/IBM/molformer.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[TrimNet]** TrimNet: learning molecular representation from triplet messages for biomedicine (**2023**) (**Journal of Chemical Information and Modeling**) [[paper](https://academic.oup.com/bib/article/22/4/bbaa266/5955940)] [[code](https://github.com/yvquanli/trimnet)] ![GitHub stars](https://img.shields.io/github/stars/yvquanli/trimnet.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[FunQG]** FunQG: Molecular Representation Learning via Quotient Graphs (**2023**) (**Journal of Chemical Information and Modeling**) [[paper](https://doi.org/10.1021/acs.jcim.3c00445)] [[code](https://github.com/hhaji/funqg)] ![GitHub stars](https://img.shields.io/github/stars/hhaji/funqg.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[MolCAP]** MolCAP: Molecular Chemical reActivity Pretraining and prompted-finetuning enhanced molecular representation learning (**2023**) (**Computers in Biology and Medicine**) [[paper](https://doi.org/10.1016/j.compbiomed.2023.107666)] [[code](https://github.com/wangyu-sd/MolCAP)] ![GitHub stars](https://img.shields.io/github/stars/wangyu-sd/MolCAP.svg?logo=github&label=Stars)
