@@ -222,7 +222,7 @@ If you have any questions, please feel free to contact Shihang Wang (Email: wang
 
 Pull requests are highly welcomed!
 
-## ⭐ Citing This Work
+# Citing This Work ⭐
 
 Wang, S., Zhang, R., Li, X. et al. **Recent advances in molecular representation methods and their applications in scaffold hopping.** 
 *npj Drug Discov.* 2, 14 (2025). https://doi.org/10.1038/s44386-025-00017-2
