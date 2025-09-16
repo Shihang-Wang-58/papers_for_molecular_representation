@@ -1,5 +1,8 @@
 [![contributing](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/Shihang-Wang-58/papers_for_molecular_representation)
 # papers_for_molecular_representation
+
+This is a collection repo for our review paper [Recent advances in molecular representation methods and their applications in scaffold hopping](https://www.nature.com/articles/s44386-025-00017-2)
+
 ![AI_MR](https://github.com/user-attachments/assets/3ce7a7af-92ab-44d6-9b20-17ef4f90aabb)
 
 **Updating...**
