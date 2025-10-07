@@ -69,7 +69,7 @@ To be continued...
 
 - <a name=""></a>**[DeepSA]** DeepSA: a deep-learning driven predictor of compound synthesis accessibility (**2023**) (**Journal of Cheminformatics**) [[paper](https://doi.org/10.1186/s13321-023-00771-3)] [[code](https://github.com/Shihang-Wang-58/DeepSA)] ![GitHub stars](https://img.shields.io/github/stars/Shihang-Wang-58/DeepSA.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[MolRoPE-BERT]** MolRoPE-BERT: An enhanced molecular representation with Rotary Position Embedding for molecular property prediction (**2023**) (**Journal of Molecular Graphics and Modelling**) [[paper](https://doi.org/10.1016/j.jmgm.2022.108344)] 
+- <a name=""></a>**[MolRoPE-BERT]** MolRoPE-BERT: An enhanced molecular representation with Rotary Position Embedding for molecular property prediction (**2023**) (**Journal of Molecular ics and Modelling**) [[paper](https://doi.org/10.1016/j.jmgm.2022.108344)] 
 
 - <a name=""></a>**[MOLFORMER]** Molecular set representation learning (**2022**) (**Nature Machine Intelligence**) [[paper](https://doi.org/10.1038/s42256-022-00580-7)] [[code](https://github.com/daenuprobst/molsetrep)] ![GitHub stars](https://img.shields.io/github/stars/daenuprobst/molsetrep.svg?logo=github&label=Stars)
 
@@ -84,6 +84,8 @@ To be continued...
 <details open>
   
 <summary><h2>Graph-based_MR<h2></summary>
+
+- <a name=""></a>**[OmniMol]** Unified and explainable molecular representation learning for imperfectly annotated data from the hypergraph view (**2025**) (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-025-63730-6)] [[code](https://github.com/bowenwang77/OmniMol)] ![GitHub stars](https://img.shields.io/github/stars/bowenwang77/OmniMol.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[MMGX]** Enhancing property and activity prediction and interpretation using multiple molecular graph representations with MMGX (**2024**) (**Communications Chemistry**) [[paper](https://doi.org/10.1038/s42004-024-01155-w)] [[code](https://github.com/ohuelab/MMGX)] ![GitHub stars](https://img.shields.io/github/stars/ohuelab/MMGX.svg?logo=github&label=Stars)
 
