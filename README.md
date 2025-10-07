@@ -69,7 +69,7 @@ To be continued...
 
 - <a name=""></a>**[DeepSA]** DeepSA: a deep-learning driven predictor of compound synthesis accessibility (**2023**) (**Journal of Cheminformatics**) [[paper](https://doi.org/10.1186/s13321-023-00771-3)] [[code](https://github.com/Shihang-Wang-58/DeepSA)] ![GitHub stars](https://img.shields.io/github/stars/Shihang-Wang-58/DeepSA.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[MolRoPE-BERT]** MolRoPE-BERT: An enhanced molecular representation with Rotary Position Embedding for molecular property prediction (**2023**) (**Journal of Molecular ics and Modelling**) [[paper](https://doi.org/10.1016/j.jmgm.2022.108344)] 
+- <a name=""></a>**[MolRoPE-BERT]** MolRoPE-BERT: An enhanced molecular representation with Rotary Position Embedding for molecular property prediction (**2023**) (**Journal of Molecular Graphics and Modelling**) [[paper](https://doi.org/10.1016/j.jmgm.2022.108344)] 
 
 - <a name=""></a>**[MOLFORMER]** Molecular set representation learning (**2022**) (**Nature Machine Intelligence**) [[paper](https://doi.org/10.1038/s42256-022-00580-7)] [[code](https://github.com/daenuprobst/molsetrep)] ![GitHub stars](https://img.shields.io/github/stars/daenuprobst/molsetrep.svg?logo=github&label=Stars)
 
