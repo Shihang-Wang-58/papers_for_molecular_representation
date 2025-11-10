@@ -85,7 +85,7 @@ To be continued...
   
 <summary><h2>Graph-based_MR<h2></summary>
 
-- <a name=""></a>**[SCAGE]** A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability (**2025**) (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-025-59634-0)] [[code](https://github.com/KazeDog/scage)] ![GitHub stars](https://github.com/KazeDog/scage.svg?logo=github&label=Stars)
+- <a name=""></a>**[SCAGE]** A self-conformation-aware pre-training framework for molecular property prediction with substructure interpretability (**2025**) (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-025-59634-0)] [[code](https://github.com/KazeDog/scage)] ![GitHub stars](https://img.shields.io/github/stars/KazeDog/scage.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[OmniMol]** Unified and explainable molecular representation learning for imperfectly annotated data from the hypergraph view (**2025**) (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-025-63730-6)] [[code](https://github.com/bowenwang77/OmniMol)] ![GitHub stars](https://img.shields.io/github/stars/bowenwang77/OmniMol.svg?logo=github&label=Stars)
 
