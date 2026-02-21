@@ -139,6 +139,8 @@ To be continued...
 
 <summary><h2>Multimodal-based_MR<h2></summary>
 
+- <a name=""></a>**[M2UMol]** Multi-to-uni modal knowledge transfer pre-training for molecular representation learning (**2026**) (**Nature Communications**) [[paper](https://doi.org/10.1038/s41467-026-69302-6)] [[code](https://github.com/Zhankun-Xiong/M2UMol)] ![GitHub stars](https://img.shields.io/github/stars/Zhankun-Xiong/M2UMol.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[MoleSG]** Complementary multi-modality molecular self-supervised learning via non-overlapping masking for property prediction (**2024**) (**Briefings in Bioinformatics**) [[paper](https://doi.org/10.1093/bib/bbae256)] [[code](https://github.com/ShenAoAO/MoleSG)] ![GitHub stars](https://img.shields.io/github/stars/ShenAoAO/MoleSG.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[MMFDL]** Multimodal fused deep learning for drug property prediction: Integrating chemical language and molecular graph (**2024**) (**Computational and Structural Biotechnology Journal**) [[paper](https://doi.org/10.1016/j.csbj.2024.04.030)] [[code](https://github.com/AIMedDrug/MMFDL.git)] ![GitHub stars](https://img.shields.io/github/stars/AIMedDrug/MMFDL.svg?logo=github&label=Stars)
@@ -205,7 +207,7 @@ To be continued...
 
 <summary><h2>3D_Molecular_Structure-based_MR<h2></summary>
 
-- <a name=""></a>**[Ouroboros]** Directed Chemical Evolution via Navigating Molecular Encoding Space (**2025**) (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2025.03.18.643899v1)] [[code](https://github.com/Wang-Lin-boop/Ouroboros)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/Ouroboros.svg?logo=github&label=Stars)
+- <a name=""></a>**[Ouroboros]** Directed Chemical Evolution via Navigating Molecular Encoding Space (**2025**) (**Advanced Science**) [[paper](https://doi.org/10.1002/advs.202513556)] [[code](https://github.com/Wang-Lin-boop/Ouroboros)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/Ouroboros.svg?logo=github&label=Stars)
   
 - <a name=""></a>**[GeminiMol]** Molecular Representation Model Enhanced by Conformational Space Profile (**2023**) (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
 
